@@ -20,9 +20,9 @@ import {
   Calendar,
   UserCheck,
   BarChart3,
-
   Quote,
   Star,
+  Zap,
 
 } from "lucide-react";
 
